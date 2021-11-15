@@ -1,0 +1,7 @@
+{
+    "csvPath":"./test.csv",
+    "needRename":"needRename\\",
+    "renamed":"renamed\\",
+    "separator":"_",
+    "subname":[12,11]
+}
