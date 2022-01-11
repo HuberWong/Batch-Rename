@@ -22,7 +22,7 @@ for i in range(len(csvList[2]) - 1):
         break
 
 for i in range(1,len(csvList) - 1):
-    oldDocList.append(csvList[i][13].split("，")[1].strip('")'))
+    oldDocList.append(csvList[i][12].split("，")[1].strip('")'))
 # print(oldDocList)
 
 
